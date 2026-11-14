@@ -1,0 +1,6 @@
+altair
+vega_datasets
+pandas
+IPython.display
+voila
+voila-material
